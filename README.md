@@ -413,10 +413,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  <img width="1200" height="783" alt="Screenshot 2026-08-18 160836" src="https://github.com/user-attachments/assets/94d37d2d-066c-4b27-8913-8c1c25ae9e93" />
 
+
+ <img width="860" height="776" alt="image" src="https://github.com/user-attachments/assets/7f419be6-9e8c-4cfa-95e9-1cf058ea0278" />
+
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
- <img width="860" height="776" alt="image" src="https://github.com/user-attachments/assets/7f419be6-9e8c-4cfa-95e9-1cf058ea0278" />
+![image](https://user-images.githubusercontent.com/36288975/233857974-bda6200e-4f88-4e7b-b189-4da80210fa23.png)
 
  
 ## Result :
